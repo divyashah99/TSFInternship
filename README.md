@@ -13,3 +13,9 @@ Dataset for task 2 - http://bit.ly/w-data
 Task : To predict the optimum number of clusters and represent it visually from the given ‘Iris’ dataset.
 
 Dataset for task 3 - https://drive.google.com/file/d/1Yjz8dzSbpAPwJdcVb20eFWniIDbs6ZH7/view?usp=sharing
+
+# Task 4 - To Explore Decision Tree Algorithm
+
+Task : To create a Decision Tree classifier and visualize it graphically from the given 'Iris' dataset.
+
+Dataset for task 4 - https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
