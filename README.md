@@ -19,3 +19,9 @@ Dataset for task 3 - https://drive.google.com/file/d/1Yjz8dzSbpAPwJdcVb20eFWniID
 Task : To create a Decision Tree classifier and visualize it graphically from the given 'Iris' dataset.
 
 Dataset for task 4 - https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+
+# Task 5 - To explore Business Analytics
+
+Task : To perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
+
+Dataset for task 5 - https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
